@@ -47,7 +47,7 @@ msgstr "Status"
 
 #: admin/class-prevent-direct-access-gold-admin.php:596
 msgid "Protect files"
-msgstr "Demo"
+msgstr "abc"
 
 #: admin/class-prevent-direct-access-gold-admin.php:597
 msgid "Unprotect files"
