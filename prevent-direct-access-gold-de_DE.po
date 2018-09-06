@@ -16,9 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
-"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
-"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
 "X-Poedit-Basepath: ..\n"
 "X-Generator: Poedit 2.0.6\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -33,11 +31,9 @@ msgstr ""
 
 #: admin/class-prevent-direct-access-gold-admin.php:215
 msgid "Prevent Direct Access"
-msgstr "Direkten Zugang verhindern"
+msgstr "Direkten Zugriff verhindern"
 
-#: admin/class-prevent-direct-access-gold-admin.php:233
-#: admin/class-prevent-direct-access-gold-admin.php:770
-#: includes/class-prevent-direct-access-gold-settings.php:62
+#: admin/class-prevent-direct-access-gold-admin.php:233 admin/class-prevent-direct-access-gold-admin.php:770 includes/class-prevent-direct-access-gold-settings.php:62
 msgid "Settings"
 msgstr "Einstellungen"
 
@@ -47,534 +43,487 @@ msgstr "Status"
 
 #: admin/class-prevent-direct-access-gold-admin.php:596
 msgid "Protect files"
-msgstr "abc"
+msgstr "Bescherm bestanden"
 
 #: admin/class-prevent-direct-access-gold-admin.php:597
 msgid "Unprotect files"
-msgstr ""
+msgstr "Entsperren Sie die Dateien"
 
 #: admin/class-prevent-direct-access-gold-admin.php:771
 msgid "Extensions"
-msgstr ""
+msgstr "Erweiterungen"
 
 #: includes/class-prevent-direct-access-gold-affiliate.php:9
 msgid "Prevent Direct Access Gold: Invite & Earn"
-msgstr ""
+msgstr "Prevent Direktzugriff Gold: Einladen & Verdienen"
 
-#: includes/class-prevent-direct-access-gold-api.php:246
-#: includes/class-prevent-direct-access-gold-repository.php:274
+#: includes/class-prevent-direct-access-gold-api.php:246 includes/class-prevent-direct-access-gold-repository.php:274
 msgid "This file is already protected. Please reload your page."
-msgstr ""
+msgstr "Diese Datei ist bereits geschützt. Bitte laden Sie Ihre Seite neu."
 
 #: includes/class-prevent-direct-access-gold-constants.php:108
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 #: includes/class-prevent-direct-access-gold-constants.php:111
 msgid "Admin users"
-msgstr ""
+msgstr "Admin-Benutzer"
 
 #: includes/class-prevent-direct-access-gold-constants.php:114
 msgid "The file's author"
-msgstr ""
+msgstr "Der Autor der Datei"
 
 #: includes/class-prevent-direct-access-gold-constants.php:117
 msgid "Logged-in users"
-msgstr ""
+msgstr "Angemeldete Benutzer"
 
 #: includes/class-prevent-direct-access-gold-constants.php:120
 msgid "Anyone"
-msgstr ""
+msgstr "Jemand"
 
 #: includes/class-prevent-direct-access-gold-file-handler.php:32
 #, php-format
 msgid "The post with ID: %d is not an attachment post type."
-msgstr ""
+msgstr "Der Beitrag mit ID: %d ist kein Anhangsposttyp."
 
 #: includes/class-prevent-direct-access-gold-file-handler.php:39
 #, php-format
-msgid ""
-"The new path provided: %s is absolute. The new path must be a path relative "
-"to the WP uploads directory."
-msgstr ""
+msgid "The new path provided: %s is absolute. The new path must be a path relative to the WP uploads directory."
+msgstr "Der neue Pfad wird bereitgestellt: %s ist absolut. Der neue Pfad muss ein Pfad zum WP-Upload-Verzeichnis sein."
 
 #: includes/class-prevent-direct-access-gold-file-handler.php:66
 #, php-format
 msgid "There was an error making or verifying the directory at: %s"
-msgstr ""
+msgstr "Beim Erstellen oder Überprüfen des Verzeichnisses unter: %s ein Fehler aufgetreten"
 
 #: includes/class-prevent-direct-access-gold-file-handler.php:201
 #, php-format
 msgid "Rename failed when trying to move file from: %s, to: %s"
-msgstr ""
+msgstr "Umbenennen fehlgeschlagen, wenn versucht wird, Datei von: %s zu: %s"
 
-#: includes/class-prevent-direct-access-gold-metabox.php:11
-#: includes/class-prevent-direct-access-gold-settings.php:28
+#: includes/class-prevent-direct-access-gold-metabox.php:11 includes/class-prevent-direct-access-gold-settings.php:28
 msgid "Prevent Direct Access Gold"
-msgstr ""
+msgstr "Verhindern Sie direkten Zugriff Gold"
 
 #: includes/class-prevent-direct-access-gold-metabox.php:32
 msgid "Protect this file"
-msgstr ""
+msgstr "Schützen Sie diese Datei"
 
 #: includes/class-prevent-direct-access-gold-metabox.php:33
 msgid "Unprotect this file"
-msgstr ""
+msgstr "Heben Sie den Schutz dieser Datei auf"
 
 #: includes/class-prevent-direct-access-gold-metabox.php:35
 msgid "Protect this attachment's files with PDA."
-msgstr ""
+msgstr "Schützen Sie die Dateien dieses Anhangs mit PDA."
 
 #: includes/class-prevent-direct-access-gold-repository.php:283
 #, php-format
 msgid "Can not move the files %s to protected folder."
-msgstr ""
+msgstr "Die Dateien %s können nicht in den geschützten Ordner verschoben werden."
 
 #: includes/class-prevent-direct-access-gold-services.php:72
 #, php-format
 msgid "Cannot found the post : %s"
-msgstr ""
+msgstr "Der Beitrag konnte nicht gefunden werden: %s"
 
 #: includes/class-prevent-direct-access-gold-services.php:79
 #, php-format
 msgid "This url : %s already existed!"
-msgstr ""
+msgstr "Diese URL: %s existiert bereits!"
 
-#: includes/class-prevent-direct-access-gold-settings.php:48
-#: includes/class-prevent-direct-access-gold-settings.php:91
-#: includes/class-prevent-direct-access-gold-settings.php:98
+#: includes/class-prevent-direct-access-gold-settings.php:48 includes/class-prevent-direct-access-gold-settings.php:91 includes/class-prevent-direct-access-gold-settings.php:98
 msgid "License"
-msgstr ""
+msgstr "Lizenz"
 
-#: includes/class-prevent-direct-access-gold-settings.php:53
-#: includes/class-prevent-direct-access-gold-settings.php:58
+#: includes/class-prevent-direct-access-gold-settings.php:53 includes/class-prevent-direct-access-gold-settings.php:58
 msgid "Migrate to version 3.0"
-msgstr ""
+msgstr "Migrieren Sie auf Version 3.0"
 
 #: includes/class-prevent-direct-access-gold-settings.php:63
 msgid "IP Restriction"
-msgstr ""
+msgstr "IP-Beschränkung"
 
 #: includes/class-prevent-direct-access-gold-settings.php:67
 msgid "Magic Links"
-msgstr ""
+msgstr "Magische Verbindungen"
 
 #: includes/class-prevent-direct-access-gold-settings.php:71
 msgid "Contact Forms"
-msgstr ""
+msgstr "Kontaktformulare"
 
 #: includes/class-prevent-direct-access-gold-settings.php:75
 msgid "Membership Integration"
-msgstr ""
+msgstr "Mitgliedschaft Integration"
 
 #: includes/class-prevent-direct-access-gold-settings.php:79
 msgid "WooCommerce"
-msgstr ""
+msgstr "WooCommerce"
 
-#: includes/class-prevent-direct-access-gold-settings.php:83
-#: includes/class-prevent-direct-access-gold-settings.php:97
+#: includes/class-prevent-direct-access-gold-settings.php:83 includes/class-prevent-direct-access-gold-settings.php:97
 msgid "Helpers"
-msgstr ""
+msgstr "Helfer"
 
 #: includes/class-prevent-direct-access-gold-settings.php:90
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: includes/class-prevent-direct-access-gold-settings.php:92
 msgid "Quick Walkthrough"
-msgstr ""
+msgstr "Schnelldurchlauf"
 
 #: includes/class-prevent-direct-access-gold-status.php:23
 msgid "Prevent Direct Access Gold Status"
-msgstr ""
+msgstr "Verhindern Sie direkten Goldstatus"
 
 #: includes/class-prevent-direct-access-gold-status.php:42
 msgid "System status"
-msgstr ""
+msgstr "Systemstatus"
 
 #: includes/class-prevent-direct-access-gold-status.php:44
 msgid "Tools"
-msgstr ""
+msgstr "Werkzeuge"
 
 #: includes/class-prevent-direct-access-gold-status.php:46
 msgid "Logs"
-msgstr ""
+msgstr "Protokolle"
 
 #: includes/class-prevent-direct-access-gold-status.php:82
 msgid "WordPress Environment"
-msgstr ""
+msgstr "WordPress-Umgebung"
 
 #: includes/class-prevent-direct-access-gold-status.php:87
 msgid "Home URL"
-msgstr ""
+msgstr "Ausgangs-URL"
 
 #: includes/class-prevent-direct-access-gold-status.php:92
 msgid "Site URL"
-msgstr ""
+msgstr "Seiten-URL"
 
 #: includes/class-prevent-direct-access-gold-status.php:97
 msgid "Prevent Direct Access Version"
-msgstr ""
+msgstr "Direct Access-Version verhindern"
 
 #: includes/class-prevent-direct-access-gold-status.php:102
 msgid "Wordpress Version"
-msgstr ""
+msgstr "Wordpress-Version"
 
 #: includes/class-prevent-direct-access-gold-status.php:107
 msgid "WordPress Multisite"
-msgstr ""
+msgstr "WordPress Multisite"
 
 #: includes/class-prevent-direct-access-gold-status.php:112
 msgid "WordPress Memory Limit"
-msgstr ""
+msgstr "WordPress Speicherlimit"
 
 #: includes/class-prevent-direct-access-gold-status.php:125
 msgid "WordPress Debug Mode"
-msgstr ""
+msgstr "WordPress Debug-Modus"
 
 #: includes/class-prevent-direct-access-gold-status.php:136
 msgid "WordPress Cron"
-msgstr ""
+msgstr "WordPress Cron"
 
 #: includes/class-prevent-direct-access-gold-status.php:147
 msgid "Language"
-msgstr ""
+msgstr "Sprache"
 
 #: includes/class-prevent-direct-access-gold-status.php:152
 msgid "External object cache"
-msgstr ""
+msgstr "Externer Objekt-Cache"
 
 #: includes/class-prevent-direct-access-gold-status.php:167
 msgid "Server Environment"
-msgstr ""
+msgstr "Serverumgebung"
 
 #: includes/class-prevent-direct-access-gold-status.php:172
 msgid "Server info"
-msgstr ""
+msgstr "Serverinformationen"
 
 #: includes/class-prevent-direct-access-gold-status.php:177
 msgid "PHP Version"
-msgstr ""
+msgstr "PHP Version"
 
 #: includes/class-prevent-direct-access-gold-status.php:183
 msgid "PHP Post Max Size"
-msgstr ""
+msgstr "PHP Post Max Größe"
 
 #: includes/class-prevent-direct-access-gold-status.php:188
 msgid "PHP Time Limit"
-msgstr ""
+msgstr "PHP-Zeitlimit"
 
 #: includes/class-prevent-direct-access-gold-status.php:193
 msgid "PHP Max Input Vars"
-msgstr ""
+msgstr "PHP Max Eingabe Vars"
 
 #: includes/class-prevent-direct-access-gold-status.php:198
 msgid "cURL Version"
-msgstr ""
+msgstr "cURL Version"
 
 #: includes/class-prevent-direct-access-gold-status.php:203
 msgid "SUHOSIN Installed"
-msgstr ""
+msgstr "SUHOSIN installiert"
 
 #: includes/class-prevent-direct-access-gold-status.php:210
 msgid "MySQL Version"
-msgstr ""
+msgstr "MySQL-Version"
 
 #: includes/class-prevent-direct-access-gold-status.php:215
 msgid "Max Upload Size"
-msgstr ""
+msgstr "Maximale Uploadgröße"
 
 #: includes/class-prevent-direct-access-gold-status.php:220
 msgid "Default Timezone is UTC"
-msgstr ""
+msgstr "Die Standardzeitzone ist UTC"
 
 #: includes/class-prevent-direct-access-gold-status.php:225
 #, php-format
 msgid "Default timezone is %s - it should be UTC"
-msgstr ""
+msgstr "Standardzeitzone ist %s - es sollte UTC sein"
 
 #: includes/class-prevent-direct-access-gold-status.php:233
 msgid "fsockopen/cURL"
-msgstr ""
+msgstr "fsockopen / cURL"
 
 #: includes/class-prevent-direct-access-gold-status.php:240
-msgid ""
-"Your server does not have fsockopen or cURL enabled - PayPal IPN and other "
-"scripts which communicate with other servers will not work. Contact your "
-"hosting provider."
-msgstr ""
+msgid "Your server does not have fsockopen or cURL enabled - PayPal IPN and other scripts which communicate with other servers will not work. Contact your hosting provider."
+msgstr "Auf Ihrem Server ist fsockopen oder cURL nicht aktiviert - PayPal IPN und andere Skripte, die mit anderen Servern kommunizieren, funktionieren nicht. Kontaktieren Sie Ihren Hosting-Anbieter."
 
 #: includes/class-prevent-direct-access-gold-status.php:246
 msgid "DOMDocument"
-msgstr ""
+msgstr "DOMDokument"
 
 #: includes/class-prevent-direct-access-gold-status.php:253
 #, php-format
-msgid ""
-"Your server does not have the %s class enabled - HTML/Multipart emails, and "
-"also some extensions, will not work without DOMDocument."
-msgstr ""
+msgid "Your server does not have the %s class enabled - HTML/Multipart emails, and also some extensions, will not work without DOMDocument."
+msgstr "Auf Ihrem Server ist die %s Klasse nicht aktiviert - HTML / Multipart-E-Mails und einige Erweiterungen funktionieren ohne DOMDocument nicht."
 
 #: includes/class-prevent-direct-access-gold-status.php:259
 msgid "GZip"
-msgstr ""
+msgstr "GZip"
 
 #: includes/class-prevent-direct-access-gold-status.php:266
 #, php-format
-msgid ""
-"Your server does not support the %s function - this is required to use the "
-"GeoIP database from MaxMind."
-msgstr ""
+msgid "Your server does not support the %s function - this is required to use the GeoIP database from MaxMind."
+msgstr "Ihr Server unterstützt die Funktion %s - dies ist erforderlich, um die GeoIP-Datenbank von MaxMind zu verwenden."
 
 #: includes/class-prevent-direct-access-gold-status.php:272
 msgid "Multibyte String"
-msgstr ""
+msgstr "Multibyte String"
 
 #: includes/class-prevent-direct-access-gold-status.php:279
 #, php-format
-msgid ""
-"Your server does not support the %s functions - this is required for better "
-"character encoding. Some fallbacks will be used instead for it."
-msgstr ""
+msgid "Your server does not support the %s functions - this is required for better character encoding. Some fallbacks will be used instead for it."
+msgstr "Ihr Server unterstützt die %s Funktionen nicht - dies ist für eine bessere Zeichencodierung erforderlich. Einige Fallbacks werden dafür verwendet."
 
 #: includes/class-prevent-direct-access-gold-status.php:285
 msgid "Remote Post"
-msgstr ""
+msgstr "Remote-Post"
 
-#: includes/class-prevent-direct-access-gold-status.php:292
-#: includes/class-prevent-direct-access-gold-status.php:305
+#: includes/class-prevent-direct-access-gold-status.php:292 includes/class-prevent-direct-access-gold-status.php:305
 #, php-format
 msgid "%s failed. Contact your hosting provider."
-msgstr ""
+msgstr "%s fehlgeschlagen. Kontaktieren Sie Ihren Hosting-Anbieter."
 
 #: includes/class-prevent-direct-access-gold-status.php:298
 msgid "Remote Get"
-msgstr ""
+msgstr "Fern Holen"
 
 #: includes/class-prevent-direct-access-gold-status.php:311
 msgid "PDA Log Directory Writable"
-msgstr ""
+msgstr "PDA-Protokollverzeichnis beschreibbar"
 
 #: includes/class-prevent-direct-access-gold-status.php:318
 #, php-format
 msgid "Please change the write permission to directory %s"
-msgstr ""
+msgstr "Bitte ändern Sie die Schreibberechtigung in das Verzeichnis %s"
 
 #: includes/class-prevent-direct-access-gold-status.php:330
 msgid "Database"
-msgstr ""
+msgstr "Datenbank"
 
 #: includes/class-prevent-direct-access-gold-status.php:335
 msgid "Prevent Direct Access Database Version"
-msgstr ""
+msgstr "Datenbankversion von Direct Access verhindern"
 
 #: includes/class-prevent-direct-access-gold-status.php:342
 msgid "Database prefix"
-msgstr ""
+msgstr "Datenbankpräfix"
 
 #: includes/class-prevent-direct-access-gold-status.php:347
 msgid "Total Database Size"
-msgstr ""
+msgstr "Gesamtgröße der Datenbank"
 
 #: includes/class-prevent-direct-access-gold-status.php:352
 msgid "Database Data Size"
-msgstr ""
+msgstr "Datenbankdatengröße"
 
 #: includes/class-prevent-direct-access-gold-status.php:357
 msgid "Database Index Size"
-msgstr ""
+msgstr "Datenbank-Indexgröße"
 
 #: includes/class-prevent-direct-access-gold-status.php:374
 msgid "Security"
-msgstr ""
+msgstr "Sicherheit"
 
 #: includes/class-prevent-direct-access-gold-status.php:379
 msgid "Secure connection (HTTPS)"
-msgstr ""
+msgstr "Sichere Verbindung (HTTPS)"
 
 #: includes/class-prevent-direct-access-gold-status.php:385
 #, php-format
-msgid ""
-"Your site is not using HTTPS. <a href=\"%s\" target=\"_blank\">Learn more "
-"about HTTPS and SSL Certificates</a>."
-msgstr ""
+msgid "Your site is not using HTTPS. <a href=\"%s\" target=\"_blank\">Learn more about HTTPS and SSL Certificates</a>."
+msgstr "Ihre Website verwendet kein HTTPS. <a href=\" %s\" Weitere Informationen zu HTTPS und SSL-Zertifikaten </a>"
 
 #: includes/class-prevent-direct-access-gold-status.php:390
 msgid "Hide errors from visitors"
-msgstr ""
+msgstr "Fehler von Besuchern ausblenden"
 
 #: includes/class-prevent-direct-access-gold-status.php:396
 msgid "Error messages should not be shown to visitors."
-msgstr ""
+msgstr "Fehlermeldungen sollten Besuchern nicht angezeigt werden."
 
 #: includes/class-prevent-direct-access-gold-status.php:406
 msgid "Theme"
-msgstr ""
+msgstr "Thema"
 
 #: includes/class-prevent-direct-access-gold-status.php:411
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: includes/class-prevent-direct-access-gold-status.php:416
 msgid "Version"
-msgstr ""
+msgstr "Ausführung"
 
 #: includes/class-prevent-direct-access-gold-status.php:421
 msgid "Author URL"
-msgstr ""
+msgstr "Autor-URL"
 
 #: includes/class-prevent-direct-access-gold-status.php:426
 msgid "Child theme"
-msgstr ""
+msgstr "Kind Thema"
 
 #: includes/class-prevent-direct-access-gold-status.php:433
 #, php-format
-msgid ""
-"If you are modifying Prevent Direct Access Gold on a parent theme that you "
-"did not build personally we recommend using a child theme. See: <a href=\"%s"
-"\" target=\"_blank\">How to create a child theme</a>"
-msgstr ""
+msgid "If you are modifying Prevent Direct Access Gold on a parent theme that you did not build personally we recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
+msgstr "Wenn Sie Prevent Direct Access Gold für ein übergeordnetes Thema ändern, das Sie nicht persönlich erstellt haben, empfehlen wir die Verwendung eines untergeordneten Designs. Siehe: <a href=\" %s \" target=\"_blank\"> So erstellen Sie ein untergeordnetes Thema </a>"
 
 #: includes/class-prevent-direct-access-gold-status.php:480
 msgid "&raquo;"
-msgstr ""
+msgstr "& raquo;"
 
 #: includes/class-prevent-direct-access-handle-file-request.php:263
-msgid ""
-"403. Forbidden.<br/>You cannot directly access files of this type in this "
-"directory on this server. Please contact the website administrator."
-msgstr ""
+msgid "403. Forbidden.<br/>You cannot directly access files of this type in this directory on this server. Please contact the website administrator."
+msgstr "403. Verboten. <br/> Sie können in diesem Verzeichnis auf diesem Server nicht direkt auf Dateien dieses Typs zugreifen. Bitte kontaktieren Sie den Website-Administrator."
 
 #: includes/views/autoload_view.php:49
 #, php-format
 msgid "the site's %s file is not writable"
-msgstr ""
+msgstr "Die %s Datei der Site ist nicht beschreibbar"
 
 #: includes/views/autoload_view.php:75
 #, php-format
-msgid ""
-"<strong>in the WordPress rewrite block</strong> (the WordPress block usually "
-"starts with %s and ends with %s, <strong>just below</strong> the line "
-"reading %s"
-msgstr ""
+msgid "<strong>in the WordPress rewrite block</strong> (the WordPress block usually starts with %s and ends with %s, <strong>just below</strong> the line reading %s"
+msgstr "<strong> im WordPress-Umschreibblock </ strong> (der WordPress-Block beginnt normalerweise mit %s und endet mit %s , <strong> knapp unter </ strong> der Zeile mit %s"
 
 #: includes/views/autoload_view.php:78 includes/views/autoload_view.php:123
 msgid "<strong>above</strong> any other rewrite rules in the file."
-msgstr ""
+msgstr "<strong> über </ strong> andere Rewrite-Regeln in der Datei."
 
 #: includes/views/autoload_view.php:80 includes/views/autoload_view.php:125
 #, php-format
-msgid ""
-"PDA Gold works best with %s enabled, so it is strongly recommended that you "
-"%s! If, however, you really <i>really</i> want to use ugly permalinks, "
-"then..."
-msgstr ""
+msgid "PDA Gold works best with %s enabled, so it is strongly recommended that you %s! If, however, you really <i>really</i> want to use ugly permalinks, then..."
+msgstr "PDA Gold funktioniert am besten mit aktiviertem %s , daher wird dringend empfohlen, dass Sie %s ! Wenn du jedoch wirklich </> hässliche Permalinks benutzen willst, dann ..."
 
 #: includes/views/autoload_view.php:80 includes/views/autoload_view.php:125
 msgid "Pretty Permalinks"
-msgstr ""
+msgstr "Hübsche Permalinks"
 
 #: includes/views/autoload_view.php:80 includes/views/autoload_view.php:125
 msgid "enable them"
-msgstr ""
+msgstr "aktiviere sie"
 
 #: includes/views/autoload_view.php:83
 #, php-format
 msgid "Add the following rules to your %s file located at %s"
-msgstr ""
+msgstr "Fügen Sie Ihrer %s Datei unter %s die folgenden Regeln hinzu"
 
 #: includes/views/autoload_view.php:97
-msgid ""
-"Once done, please click on the button below to check if the rewrite rules "
-"are inserted correctly"
-msgstr ""
+msgid "Once done, please click on the button below to check if the rewrite rules are inserted correctly"
+msgstr "Wenn Sie fertig sind, klicken Sie bitte auf die Schaltfläche unten, um zu überprüfen, ob die Rewrite-Regeln korrekt eingefügt wurden"
 
 #: includes/views/autoload_view.php:110
 msgid "Use raw redirect URL"
-msgstr ""
+msgstr "Verwenden Sie die rohe Weiterleitungs-URL"
 
 #: includes/views/autoload_view.php:120
 #, php-format
-msgid ""
-"<strong>within your WordPress rewrite block</strong>, which usually starts "
-"with %s and ends with %s, and <strong>just below</strong> the line reading %s"
-msgstr ""
+msgid "<strong>within your WordPress rewrite block</strong>, which usually starts with %s and ends with %s, and <strong>just below</strong> the line reading %s"
+msgstr "<strong> in Ihrem Wordpress neu schreiben Block </ strong>, die in der Regel beginnt mit %s und enden mit %s und <strong> knapp unter </ strong> die Linie Lese %s"
 
 #: includes/views/autoload_view.php:128
-msgid ""
-"If the original links of your protected files are still accessible and/or "
-"their private links don't work, please make sure our rewrite rules are "
-"inserted correctly on your .htaccess file by clicking on the button below."
-msgstr ""
+msgid "If the original links of your protected files are still accessible and/or their private links don't work, please make sure our rewrite rules are inserted correctly on your .htaccess file by clicking on the button below."
+msgstr "Wenn die ursprünglichen Links Ihrer geschützten Dateien weiterhin zugänglich sind und / oder ihre privaten Links nicht funktionieren, stellen Sie bitte sicher, dass unsere Umschreibungsregeln korrekt in Ihre .htaccess-Datei eingefügt werden, indem Sie auf die Schaltfläche unten klicken."
 
 #: includes/views/autoload_view.php:130
 #, php-format
 msgid "The following rules should be added into your %s file located at %s"
-msgstr ""
+msgstr "Die folgenden Regeln sollten zu Ihrer %s Datei hinzugefügt werden, die sich unter %s"
 
 #: includes/views/view-prevent-direct-access-gold-disable-directory-listing.php:2
 msgid "Disable Directory Listing"
-msgstr ""
+msgstr "Verzeichnisliste deaktivieren"
 
 #: includes/views/view-prevent-direct-access-gold-ip-block-tab.php:8
 msgid "Save changes"
-msgstr ""
+msgstr "Änderungen speichern"
 
 #: includes/views/view-prevent-direct-access-gold-like-plugin-column.php:2
 msgid "Like our Gold version?"
-msgstr ""
+msgstr "Wie unsere Gold Version?"
 
 #: includes/views/view-prevent-direct-access-gold-like-plugin-column.php:4
-msgid ""
-"If you like <b>Prevent Direct Access Gold version</b>, please give us <span "
-"class=\"pda-star dashicons dashicons-star-filled\"></span> to motivate the "
-"team to work harder, add more powerful features and support you even "
-"better :) </br> A huge thanks in advance!"
+msgid "If you like <b>Prevent Direct Access Gold version</b>, please give us <span class=\"pda-star dashicons dashicons-star-filled\"></span> to motivate the team to work harder, add more powerful features and support you even better :) </br> A huge thanks in advance!"
 msgstr ""
+"Wenn Sie möchten <b> Prevent Direct Access Gold-Version </ b>, geben Sie uns <span class = \"pda-star dashicons dashicons-star-filled\"> </ span>, um das Team zu motivieren, härter zu arbeiten, hinzuzufügen leistungsfähigere Funktionen und unterstützen Sie noch besser :) </ br> Ein großes Dankeschön im Voraus!"
 
 #: includes/views/view-prevent-direct-access-gold-like-plugin-column.php:7
 msgid "Let's do it"
-msgstr ""
+msgstr "Machen wir das"
 
 #: includes/views/view-prevent-direct-access-gold-status-log-content.php:58
 msgid "Action failed. Please refresh the page and retry."
-msgstr ""
+msgstr "Aktion: fehlgeschlagen. Bitte aktualisieren Sie die Seite und versuchen Sie es erneut."
 
 #: includes/views/view-prevent-direct-access-gold-status-log-viewer.php:20
 msgid "Download log"
-msgstr ""
+msgstr "Log herunterladen"
 
 #: includes/views/view-prevent-direct-access-gold-status-log-viewer.php:32
 #, php-format
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s bei %2$s"
 
 #: includes/views/view-prevent-direct-access-gold-status-log-viewer.php:40
 msgid "View"
-msgstr ""
+msgstr "Aussicht"
 
 #: includes/views/view-prevent-direct-access-gold-status-log-viewer.php:49
 msgid "There are currently no logs to view."
-msgstr ""
+msgstr "Zurzeit sind keine Protokolle verfügbar."
 
 #: includes/views/view-prevent-direct-access-gold-subscribe-form.php:7
-msgid ""
-"Be the first to get our latest updates and probably 1-year Gold license for "
-"free."
-msgstr ""
+msgid "Be the first to get our latest updates and probably 1-year Gold license for free."
+msgstr "Seien Sie der Erste, der unsere neuesten Updates und die wahrscheinlich einjährige Gold-Lizenz kostenlos erhält."
 
 #: includes/views/view-prevent-direct-access-gold-subscribe-form.php:15
 msgid "Get Lucky"
-msgstr ""
+msgstr "Glück haben"
 
-#: includes/views/view-prevent-direct-access-gold-subscribe-form.php:23
-#: includes/views/view-prevent-direct-access-gold-subscribe-form.php:34
-msgid ""
-"Congrats! You've subscribed to our newsletter and now stand a chance to win "
-"our 1-year Gold license for free."
-msgstr ""
+#: includes/views/view-prevent-direct-access-gold-subscribe-form.php:23 includes/views/view-prevent-direct-access-gold-subscribe-form.php:34
+msgid "Congrats! You've subscribed to our newsletter and now stand a chance to win our 1-year Gold license for free."
+msgstr "Glückwunsch! Sie haben unseren Newsletter abonniert und haben nun die Chance, unsere 1-jährige Gold-Lizenz kostenlos zu gewinnen."
 
-#: includes/views/view-prevent-direct-access-gold-subscribe-form.php:24
-#: includes/views/view-prevent-direct-access-gold-subscribe-form.php:35
+#: includes/views/view-prevent-direct-access-gold-subscribe-form.php:24 includes/views/view-prevent-direct-access-gold-subscribe-form.php:35
 msgid "Stay tuned for our updates :)"
-msgstr ""
+msgstr "Bleib dran für unsere Updates :)"
