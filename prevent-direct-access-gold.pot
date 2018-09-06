@@ -8,7 +8,7 @@ msgstr ""
 "Prevent Direct Access "
 "Gold v1.0.0\n"
 "POT-Creation-Date: "
-"2018-09-06 11:15+0700\n"
+"2018-09-06 15:04+0700\n"
 "PO-Revision-Date: \n"
 "Last-Translator: BWPS "
 "<translations@ymese."
@@ -75,6 +75,9 @@ msgstr ""
 "X-Poedit-"
 "SearchPathExcluded-7: ."
 "*\n"
+"X-Poedit-"
+"SearchPathExcluded-8: "
+"js\n"
 
 #: admin/class-prevent-direct-access-gold-admin.php:215
 msgid ""
@@ -689,6 +692,10 @@ msgstr ""
 #: includes/views/view-prevent-direct-access-gold-disable-directory-listing.php:2
 msgid ""
 "Disable Directory Listing"
+msgstr ""
+
+#: includes/views/view-prevent-direct-access-gold-enable-remote-log.php:2
+msgid "Enable Debug Logs"
 msgstr ""
 
 #: includes/views/view-prevent-direct-access-gold-ip-block-tab.php:8
